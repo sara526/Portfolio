@@ -1,11 +1,10 @@
 # Portfolio
-Create a simple portfolio using HTML, Bootstrap5 &amp; JavaScript.
+Create a simple portfolio using HTML, CSS and Bootstrap5.
 
 ## 🛠 Technologies Used
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-- **JavaScript**
 - [Font Awesome](https://fontawesome.com/) (for icons)
 
 ## 📂 Sections
