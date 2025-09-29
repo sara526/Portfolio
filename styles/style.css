@@ -20,8 +20,8 @@ p{
 
 /* All icons style */
 .icons i {
-  width: 2rem; 
-  height: 2rem;
+  /* width: 2.6rem; 
+  height: 2.6rem; */
   margin: 0 0.6rem;
   display: flex;
   align-items: center;
