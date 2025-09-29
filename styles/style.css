@@ -21,7 +21,7 @@ p{
 /* All icons style */
 .icons i {
   width: 70px; 
-  height: 70px;
+  height: 60px;
   margin: 0 0.6rem;
   display: flex;
   align-items: center;
@@ -119,5 +119,11 @@ a{
   }
 }
 
+footer ul li{
+  list-style: none;
+  font-size: 1.6rem;
+  margin: 0.6rem;
+  text-align: center;
+}
 
 
