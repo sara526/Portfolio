@@ -20,7 +20,7 @@ p{
 
 /* All icons style */
 .icons i {
-  width: 70px; 
+  width: 65px; 
   height: 60px;
   margin: 0 0.6rem;
   display: flex;
@@ -124,6 +124,7 @@ footer ul li{
   font-size: 1.6rem;
   margin: 0.6rem;
   text-align: center;
+  cursor: pointer;
 }
 
 
